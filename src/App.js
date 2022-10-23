@@ -29,8 +29,7 @@ const customers = [
     'job' : '대학생',
   }
 ]
-//
-//
+
 class App extends Component {
   render(){
   return (
